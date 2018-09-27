@@ -1,0 +1,20 @@
+{
+  "groups": [{
+    "name": "girl",
+    "type": "com.properties.GirlProperties",
+    "sourceType": "com.properties.GirlProperties"
+  }],
+  "properties": [
+    {
+      "name": "girl.age",
+      "type": "java.lang.Integer",
+      "sourceType": "com.properties.GirlProperties"
+    },
+    {
+      "name": "girl.cup-size",
+      "type": "java.lang.String",
+      "sourceType": "com.properties.GirlProperties"
+    }
+  ],
+  "hints": []
+}
